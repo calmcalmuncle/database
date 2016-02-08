@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Callum/Desktop/TabsWithSwipeGesture/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/set_time_short_hq.png",
+        "source": "/Users/Callum/Desktop/TabsWithSwipeGesture/app/src/main/res/drawable-mdpi/set_time_short_hq.png"
+    },
+    {
+        "merged": "/Users/bettinaalexieva/AndroidStudioProjects/TabsWithSwipeGesture/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/set_time_short_hq.png",
+        "source": "/Users/bettinaalexieva/AndroidStudioProjects/TabsWithSwipeGesture/app/src/main/res/drawable-mdpi/set_time_short_hq.png"
+    },
+    {
+        "merged": "/Users/Callum/Desktop/TabsWithSwipeGesture/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/set_date_short_hq.png",
+        "source": "/Users/Callum/Desktop/TabsWithSwipeGesture/app/src/main/res/drawable-mdpi/set_date_short_hq.png"
+    },
+    {
+        "merged": "/Users/bettinaalexieva/AndroidStudioProjects/TabsWithSwipeGesture/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/set_date_short_hq.png",
+        "source": "/Users/bettinaalexieva/AndroidStudioProjects/TabsWithSwipeGesture/app/src/main/res/drawable-mdpi/set_date_short_hq.png"
+    },
+    {
+        "merged": "/Users/bettinaalexieva/AndroidStudioProjects/TabsWithSwipeGesture/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/bettinaalexieva/AndroidStudioProjects/TabsWithSwipeGesture/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Callum/Desktop/TabsWithSwipeGesture/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/Callum/Desktop/TabsWithSwipeGesture/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
